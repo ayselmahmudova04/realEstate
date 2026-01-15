@@ -1,8 +1,13 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 
 function App() {
+    useEffect(() => {
+    document.title = "Real Estate"
+  }, [])
   return (
-    <div>App</div>
+    <>
+
+    </>
   )
 }
 
