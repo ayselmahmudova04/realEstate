@@ -17,7 +17,7 @@ namespace RealEstateBE.Domain.Entities
         public string PasswordHash { get; set;  }   
         public string? PhoneNumber { get; set;  }       
         public string? ProfileImageUrl { get; set; }        
-        public UserRole Role { get; set; }  
+        public UserRole? Role { get; set; }  
         public bool IsEmailVerified { get; set; }   
 
         public string? EmailVerificationToken { get; set; } 

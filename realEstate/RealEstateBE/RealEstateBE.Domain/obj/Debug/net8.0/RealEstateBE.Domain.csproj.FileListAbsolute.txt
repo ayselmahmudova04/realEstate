@@ -1,0 +1,11 @@
+C:\Backend\RealEstateBE\RealEstateBE.Domain\bin\Debug\net8.0\RealEstateBE.Domain.deps.json
+C:\Backend\RealEstateBE\RealEstateBE.Domain\bin\Debug\net8.0\RealEstateBE.Domain.dll
+C:\Backend\RealEstateBE\RealEstateBE.Domain\bin\Debug\net8.0\RealEstateBE.Domain.pdb
+C:\Backend\RealEstateBE\RealEstateBE.Domain\obj\Debug\net8.0\RealEstateBE.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Backend\RealEstateBE\RealEstateBE.Domain\obj\Debug\net8.0\RealEstateBE.Domain.AssemblyInfoInputs.cache
+C:\Backend\RealEstateBE\RealEstateBE.Domain\obj\Debug\net8.0\RealEstateBE.Domain.AssemblyInfo.cs
+C:\Backend\RealEstateBE\RealEstateBE.Domain\obj\Debug\net8.0\RealEstateBE.Domain.csproj.CoreCompileInputs.cache
+C:\Backend\RealEstateBE\RealEstateBE.Domain\obj\Debug\net8.0\RealEstateBE.Domain.dll
+C:\Backend\RealEstateBE\RealEstateBE.Domain\obj\Debug\net8.0\refint\RealEstateBE.Domain.dll
+C:\Backend\RealEstateBE\RealEstateBE.Domain\obj\Debug\net8.0\RealEstateBE.Domain.pdb
+C:\Backend\RealEstateBE\RealEstateBE.Domain\obj\Debug\net8.0\ref\RealEstateBE.Domain.dll

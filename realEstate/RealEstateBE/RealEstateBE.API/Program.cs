@@ -21,7 +21,7 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
         mySqlOptions =>
         {
             // Migration'lar Infrastructure katmanında
-            mySqlOptions.MigrationsAssembly("RealEstateApp.Infrastructure");
+            mySqlOptions.MigrationsAssembly("RealEstateBE.Infrastructure");
 
             // Command timeout (uzun süren sorgular için)
             mySqlOptions.CommandTimeout(60);

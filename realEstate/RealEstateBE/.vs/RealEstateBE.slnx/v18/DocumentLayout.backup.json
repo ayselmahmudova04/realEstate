@@ -1,7 +1,60 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Backend\\RealEstateBE\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Backend\\RealEstateBE\\RealEstateBE.Infrastructure\\Migrations\\20260115192025_dkmsdkmksmds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RealEstateBE.Infrastructure\\Migrations\\20260115192025_dkmsdkmksmds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Backend\\RealEstateBE\\RealEstateBE.Infrastructure\\Migrations\\20260115191941_initiakkkkllll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RealEstateBE.Infrastructure\\Migrations\\20260115191941_initiakkkkllll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Backend\\RealEstateBE\\RealEstateBE.Infrastructure\\Migrations\\20260115191851_InitialCreateaaa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RealEstateBE.Infrastructure\\Migrations\\20260115191851_InitialCreateaaa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FCEC60-3D43-1C4B-A4C5-92E21E3A7C62}|RealEstateBE.Domain\\RealEstateBE.Domain.csproj|c:\\backend\\realestatebe\\realestatebe.domain\\entities\\contactmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FCEC60-3D43-1C4B-A4C5-92E21E3A7C62}|RealEstateBE.Domain\\RealEstateBE.Domain.csproj|solutionrelative:realestatebe.domain\\entities\\contactmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Backend\\RealEstateBE\\RealEstateBE.Infrastructure\\Migrations\\20260115191801_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RealEstateBE.Infrastructure\\Migrations\\20260115191801_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A118EF9-CA19-52A5-848D-51758F66A672}|RealEstateBE.Infrastructure\\RealEstateBE.Infrastructure.csproj|c:\\backend\\realestatebe\\realestatebe.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A118EF9-CA19-52A5-848D-51758F66A672}|RealEstateBE.Infrastructure\\RealEstateBE.Infrastructure.csproj|solutionrelative:realestatebe.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A0BEC9-F246-5192-85E7-F0C729019AD5}|RealEstateBE.API\\RealEstateBE.API.csproj|c:\\backend\\realestatebe\\realestatebe.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4A0BEC9-F246-5192-85E7-F0C729019AD5}|RealEstateBE.API\\RealEstateBE.API.csproj|solutionrelative:realestatebe.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A118EF9-CA19-52A5-848D-51758F66A672}|RealEstateBE.Infrastructure\\RealEstateBE.Infrastructure.csproj|c:\\backend\\realestatebe\\realestatebe.infrastructure\\realestatebe.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2A118EF9-CA19-52A5-848D-51758F66A672}|RealEstateBE.Infrastructure\\RealEstateBE.Infrastructure.csproj|solutionrelative:realestatebe.infrastructure\\realestatebe.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FCEC60-3D43-1C4B-A4C5-92E21E3A7C62}|RealEstateBE.Domain\\RealEstateBE.Domain.csproj|c:\\backend\\realestatebe\\realestatebe.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FCEC60-3D43-1C4B-A4C5-92E21E3A7C62}|RealEstateBE.Domain\\RealEstateBE.Domain.csproj|solutionrelative:realestatebe.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FCEC60-3D43-1C4B-A4C5-92E21E3A7C62}|RealEstateBE.Domain\\RealEstateBE.Domain.csproj|c:\\backend\\realestatebe\\realestatebe.domain\\realestatebe.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F7FCEC60-3D43-1C4B-A4C5-92E21E3A7C62}|RealEstateBE.Domain\\RealEstateBE.Domain.csproj|solutionrelative:realestatebe.domain\\realestatebe.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664C1D8A-C5BB-0E03-0787-E5CF488A54A3}|RealEstateBE.Application\\RealEstateBE.Application.csproj|c:\\backend\\realestatebe\\realestatebe.application\\realestatebe.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{664C1D8A-C5BB-0E03-0787-E5CF488A54A3}|RealEstateBE.Application\\RealEstateBE.Application.csproj|solutionrelative:realestatebe.application\\realestatebe.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A0BEC9-F246-5192-85E7-F0C729019AD5}|RealEstateBE.API\\RealEstateBE.API.csproj|c:\\backend\\realestatebe\\realestatebe.api\\realestatebe.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F4A0BEC9-F246-5192-85E7-F0C729019AD5}|RealEstateBE.API\\RealEstateBE.API.csproj|solutionrelative:realestatebe.api\\realestatebe.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A0BEC9-F246-5192-85E7-F0C729019AD5}|RealEstateBE.API\\RealEstateBE.API.csproj|c:\\backend\\realestatebe\\realestatebe.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4A0BEC9-F246-5192-85E7-F0C729019AD5}|RealEstateBE.API\\RealEstateBE.API.csproj|solutionrelative:realestatebe.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +62,180 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260115192025_dkmsdkmksmds.cs",
+              "DocumentMoniker": "C:\\Backend\\RealEstateBE\\RealEstateBE.Infrastructure\\Migrations\\20260115192025_dkmsdkmksmds.cs",
+              "RelativeDocumentMoniker": "RealEstateBE.Infrastructure\\Migrations\\20260115192025_dkmsdkmksmds.cs",
+              "ToolTip": "C:\\Backend\\RealEstateBE\\RealEstateBE.Infrastructure\\Migrations\\20260115192025_dkmsdkmksmds.cs",
+              "RelativeToolTip": "RealEstateBE.Infrastructure\\Migrations\\20260115192025_dkmsdkmksmds.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T19:20:26.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260115191941_initiakkkkllll.cs",
+              "DocumentMoniker": "C:\\Backend\\RealEstateBE\\RealEstateBE.Infrastructure\\Migrations\\20260115191941_initiakkkkllll.cs",
+              "RelativeDocumentMoniker": "RealEstateBE.Infrastructure\\Migrations\\20260115191941_initiakkkkllll.cs",
+              "ToolTip": "C:\\Backend\\RealEstateBE\\RealEstateBE.Infrastructure\\Migrations\\20260115191941_initiakkkkllll.cs",
+              "RelativeToolTip": "RealEstateBE.Infrastructure\\Migrations\\20260115191941_initiakkkkllll.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T19:19:41.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20260115191851_InitialCreateaaa.cs",
+              "DocumentMoniker": "C:\\Backend\\RealEstateBE\\RealEstateBE.Infrastructure\\Migrations\\20260115191851_InitialCreateaaa.cs",
+              "RelativeDocumentMoniker": "RealEstateBE.Infrastructure\\Migrations\\20260115191851_InitialCreateaaa.cs",
+              "ToolTip": "C:\\Backend\\RealEstateBE\\RealEstateBE.Infrastructure\\Migrations\\20260115191851_InitialCreateaaa.cs",
+              "RelativeToolTip": "RealEstateBE.Infrastructure\\Migrations\\20260115191851_InitialCreateaaa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T19:18:51.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactMessage.cs",
+              "DocumentMoniker": "C:\\Backend\\RealEstateBE\\RealEstateBE.Domain\\Entities\\ContactMessage.cs",
+              "RelativeDocumentMoniker": "RealEstateBE.Domain\\Entities\\ContactMessage.cs",
+              "ToolTip": "C:\\Backend\\RealEstateBE\\RealEstateBE.Domain\\Entities\\ContactMessage.cs",
+              "RelativeToolTip": "RealEstateBE.Domain\\Entities\\ContactMessage.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA0wCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T19:18:19.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20260115191801_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Backend\\RealEstateBE\\RealEstateBE.Infrastructure\\Migrations\\20260115191801_InitialCreate.cs",
+              "RelativeDocumentMoniker": "RealEstateBE.Infrastructure\\Migrations\\20260115191801_InitialCreate.cs",
+              "ToolTip": "C:\\Backend\\RealEstateBE\\RealEstateBE.Infrastructure\\Migrations\\20260115191801_InitialCreate.cs",
+              "RelativeToolTip": "RealEstateBE.Infrastructure\\Migrations\\20260115191801_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T19:18:01.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Backend\\RealEstateBE\\RealEstateBE.API\\Program.cs",
+              "RelativeDocumentMoniker": "RealEstateBE.API\\Program.cs",
+              "ToolTip": "C:\\Backend\\RealEstateBE\\RealEstateBE.API\\Program.cs",
+              "RelativeToolTip": "RealEstateBE.API\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T19:13:50.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Backend\\RealEstateBE\\RealEstateBE.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "RealEstateBE.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Backend\\RealEstateBE\\RealEstateBE.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "RealEstateBE.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T19:12:09.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RealEstateBE.Infrastructure",
+              "DocumentMoniker": "C:\\Backend\\RealEstateBE\\RealEstateBE.Infrastructure\\RealEstateBE.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "RealEstateBE.Infrastructure\\RealEstateBE.Infrastructure.csproj",
+              "ToolTip": "C:\\Backend\\RealEstateBE\\RealEstateBE.Infrastructure\\RealEstateBE.Infrastructure.csproj",
+              "RelativeToolTip": "RealEstateBE.Infrastructure\\RealEstateBE.Infrastructure.csproj",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-15T19:08:51.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RealEstateBE.Domain",
+              "DocumentMoniker": "C:\\Backend\\RealEstateBE\\RealEstateBE.Domain\\RealEstateBE.Domain.csproj",
+              "RelativeDocumentMoniker": "RealEstateBE.Domain\\RealEstateBE.Domain.csproj",
+              "ToolTip": "C:\\Backend\\RealEstateBE\\RealEstateBE.Domain\\RealEstateBE.Domain.csproj",
+              "RelativeToolTip": "RealEstateBE.Domain\\RealEstateBE.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-15T19:08:42.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RealEstateBE.Application",
+              "DocumentMoniker": "C:\\Backend\\RealEstateBE\\RealEstateBE.Application\\RealEstateBE.Application.csproj",
+              "RelativeDocumentMoniker": "RealEstateBE.Application\\RealEstateBE.Application.csproj",
+              "ToolTip": "C:\\Backend\\RealEstateBE\\RealEstateBE.Application\\RealEstateBE.Application.csproj",
+              "RelativeToolTip": "RealEstateBE.Application\\RealEstateBE.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-15T19:08:36.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RealEstateBE.API",
+              "DocumentMoniker": "C:\\Backend\\RealEstateBE\\RealEstateBE.API\\RealEstateBE.API.csproj",
+              "RelativeDocumentMoniker": "RealEstateBE.API\\RealEstateBE.API.csproj",
+              "ToolTip": "C:\\Backend\\RealEstateBE\\RealEstateBE.API\\RealEstateBE.API.csproj",
+              "RelativeToolTip": "RealEstateBE.API\\RealEstateBE.API.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-15T19:08:28.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Backend\\RealEstateBE\\RealEstateBE.API\\appsettings.json",
+              "RelativeDocumentMoniker": "RealEstateBE.API\\appsettings.json",
+              "ToolTip": "C:\\Backend\\RealEstateBE\\RealEstateBE.API\\appsettings.json",
+              "RelativeToolTip": "RealEstateBE.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-15T19:04:36.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Backend\\RealEstateBE\\RealEstateBE.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "RealEstateBE.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Backend\\RealEstateBE\\RealEstateBE.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "RealEstateBE.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAADwv6QAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T19:04:08.697Z",
+              "EditorCaption": ""
             }
           ]
         }
