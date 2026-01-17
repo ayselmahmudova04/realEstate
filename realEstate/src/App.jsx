@@ -1,12 +1,12 @@
 import React, { useEffect } from 'react'
 
 function App() {
-    useEffect(() => {
-    document.title = "Real Estate"
-  }, [])
+  
   return (
     <>
-
+      <div className="bg-blue-500 text-white p-4">
+        Test
+      </div>
     </>
   )
 }
