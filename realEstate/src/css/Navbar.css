@@ -12,13 +12,17 @@ nav {
 
 .navbar {
     display: flex;
-    gap: 20px;
+    gap: 30px;
 }
+
 
 .navbar li a {
     font: 600 14px "Inter", sans-serif;
+    padding-bottom: 10px;
 }
-
+.navbar li a:hover {
+    border-bottom: 2px solid #4B9E8D;
+}
 .right-side {
     display: flex;
     gap: 20px;

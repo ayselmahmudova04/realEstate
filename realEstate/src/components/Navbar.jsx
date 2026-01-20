@@ -6,6 +6,7 @@ import globe from '../images/globe.svg'
 import add from '../images/add.svg'
 import bell from '../images/bell.svg'
 import user from '../images/user-profile-circle.svg'
+import Search from './Search'
 
 function Navbar() {
   const [open, setOpen] = useState(false)
@@ -22,14 +23,14 @@ function Navbar() {
               <h1>Bina 24</h1>
             </Link>
           </div>
-            <ul className="navbar">
-              <li><Link to="/buy-sell">Ev-alqı satqısı</Link></li>
-              <li><Link to="/rent">Kirayə</Link></li>
-              <li><Link to="/daily">Günlük</Link></li>
-              <li><Link to="/roommate">Otaq yoldaşı</Link></li>
-              <li><Link to="/complexes">Yaşayış kompleksləri</Link></li>
-              <li><Link to="/mortgage">İpoteka</Link></li>
-            </ul>
+          <ul className="navbar">
+            <li><Link to="/buy-sell">Ev-alqı satqısı</Link></li>
+            <li><Link to="/rent">Kirayə</Link></li>
+            <li><Link to="/daily">Günlük</Link></li>
+            <li><Link to="/roommate">Otaq yoldaşı</Link></li>
+            <li><Link to="/complexes">Yaşayış kompleksləri</Link></li>
+            <li><Link to="/mortgage">İpoteka</Link></li>
+          </ul>
 
           <div className="right-side">
             <div className="language">
@@ -37,7 +38,7 @@ function Navbar() {
                 setOpenGlobe(!openGlobe)
               }}>
                 <img src={globe} alt="" />
-                AZ  
+                AZ
               </button>
               {openGlobe && (
                 <div className="language-dropdown">
@@ -48,7 +49,7 @@ function Navbar() {
                   </ul>
                 </div>
               )}
-             
+
             </div>
             <div className="announcement">
               <button onClick={() => {
@@ -75,6 +76,8 @@ function Navbar() {
           </div>
         </nav>
       </div>
+
+      <Search />
     </>
   )
 }
