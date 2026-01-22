@@ -20,9 +20,11 @@ nav {
     font: 600 14px "Inter", sans-serif;
     padding-bottom: 10px;
 }
+
 .navbar li a:hover {
     border-bottom: 2px solid #4B9E8D;
 }
+
 .right-side {
     display: flex;
     gap: 20px;
@@ -40,7 +42,8 @@ nav {
 }
 
 .language,
-.announcement {
+.announcement,
+.user {
     position: relative;
 }
 
@@ -52,15 +55,50 @@ nav {
     background: #fff;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
     border-radius: 10px;
-    padding: 10px 20px;
+    z-index: 999;
+}
+
+.user-dropdown {
+    position: absolute;
+    top: 30px;
+    right: 0;
+    background: #fff;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 10px;
     z-index: 999;
 }
 
 .language-dropdown li,
-.announcement-dropdown li {
+.announcement-dropdown li,
+.user-dropdown p {
     font: 500 16px "Inter", sans-serif;
     color: #00000080;
-    line-height: 25px;
+    padding: 7px 20px;
+}
+
+.language-dropdown li:first-child:hover,
+.announcement-dropdown li:first-child:hover {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.language-dropdown li:last-child:hover,
+.announcement-dropdown li:last-child:hover {
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+.user-dropdown p:hover {
+    border-radius: 10px;
+}
+.user-dropdown p {
+    padding: 15px 20px;
+    width: 100px;
+}
+
+.announcement-dropdown li:hover,
+.language-dropdown li:hover,
+.user-dropdown p:hover {
+    background-color: #f0f0f0;
+
 }
 
 .language button,
@@ -70,4 +108,10 @@ nav {
     gap: 5px;
     font: 600 16px "Inter", sans-serif;
     color: #00000080;
+    cursor: pointer;
+}
+
+.bell,
+.user {
+    cursor: pointer;
 }

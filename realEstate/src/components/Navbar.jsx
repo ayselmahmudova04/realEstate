@@ -11,6 +11,7 @@ import Search from './Search'
 function Navbar() {
   const [open, setOpen] = useState(false)
   const [openGlobe, setOpenGlobe] = useState(false)
+  const [openUser, setOpenUser] = useState(false)
 
   return (
     <>
@@ -62,6 +63,7 @@ function Navbar() {
                 <div className="announcement-dropdown">
                   <ul>
                     <li> <Link to="/my-rent" onClick={() => setOpen(false)}>Kirayə </Link> </li>
+
                     <li> <Link to="/sell" onClick={() => setOpen(false)}>Satıram</Link></li>
                   </ul>
                 </div>
@@ -71,7 +73,17 @@ function Navbar() {
               <img src={bell} alt="" />
             </div>
             <div className="user">
-              <img src={user} alt="" />
+
+              <img src={user} alt="" onClick={() => setOpenUser(!openUser)} />
+              {openUser && (
+                <div className="user-dropdown">
+                  <p>Sign in</p>
+                </div>
+
+              )
+
+              }
+
             </div>
           </div>
         </nav>
